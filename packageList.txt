@@ -1,0 +1,39 @@
+npm install react-navigation
+npm install moment
+npm install expo-calendar
+npm install expo-localization
+npm install react-native-calendar-strip
+npm install react-native-modal-datetime-picker
+npm install expo-constants
+npm install @react-native-community/async-storage
+npm install react-native-calendars
+npm install expo-permissions
+npm install react-native-calendars
+npm install react-native-gesture-handler
+npm install @react-native-community/datetimepicker
+npm install react-navigation-stack
+npm install @react-native-community/masked-view
+npm install react-native-screens
+
+
+
+
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add react-navigation-stack
+yarn add react-native-screens
+yarn add moment
+yarn add expo-calendar
+yarn add expo-localization
+yarn add react-native-calendar-strip
+yarn add react-native-modal-datetime-picker
+yarn add expo-constants
+yarn add @react-native-community/async-storage
+yarn add react-native-calendars
+yarn add expo-permissions
+yarn add react-native-calendars
+yarn add @react-native-community/datetimepicker
+yarn add react-navigation
+
+
+yarn add 
