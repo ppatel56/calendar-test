@@ -5,14 +5,16 @@ import * as Permissions from 'expo-permissions';
 import Home from './screens/Home';
 import CreateTask from './screens/CreateTask';
 import TodoStore from './data/TodoStore';
-import createStackNavigator from 'react-navigation-stack';
+//import createStackNavigator from 'react-navigation-stack';
+//import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
 const AppNavigator = createStackNavigator(
   {
     Home,
     CreateTask,
   },
   {
-    headerMode: 'none',
+    headerMode: false,
   }
 );
 
